@@ -3,5 +3,23 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.ctp</mask>
+    <mask>*.install</mask>
+    <mask>*.theme</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.phtml</mask>
+    <mask>*.hphp</mask>
+    <mask>*.profile</mask>
+    <mask>*.test</mask>
+    <mask>*.engine</mask>
+    <mask>*.module</mask>
+    <mask>*.php</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
