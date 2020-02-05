@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.b-connect.eu" />
+          <token>df9fdfcbdfc9df99df98df9adf9adfc9df9edf9bdf9edf9cdf9bdf92df92df93df9adfccdf9cdfcfdfcfdfc8dfc8dfc8dfc8df9fdf9cdfcfdfcfdf9fdfc9dfccdfcfdf9bdf92dfcbdfcbdf9cdf9adf9b</token>
+          <option name="name" value="Sonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
