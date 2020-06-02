@@ -10,6 +10,7 @@
       <mapping pattern="services/cli/crontab" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="icc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
